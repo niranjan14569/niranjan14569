@@ -1,16 +1,24 @@
-## Hi there 👋
+### 👋 Hi, I’m Niranjan Gajulapalli  
+💡 Passionate about building meaningful CRM solutions using Microsoft Dynamics 365  
+🔢 Life Path: 9 | Name Vibration: 7 | Tech ID: 14569
 
-<!--
-**niranjan14569/niranjan14569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔧 **Current Skills**
+- Dynamics 365 CRM Customization
+- Power Platform / Power Automate
+- JavaScript & Plugin Development
+- Integration with Azure Logic Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning**
+- Azure DevOps for CRM projects
+- AI-assisted CRM Automation
+
+📫 **Let’s Connect**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/niranjan-gajulapalli-572312215/)
+- 🧑‍💻 [GitHub](https://github.com/niranjan14569)  
+- ✉️ niranjan14569@gmail.com
+
+---
+
+⚡ *Driven by code, powered by purpose.*
